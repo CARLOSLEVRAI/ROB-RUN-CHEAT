@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(rob_run_cheat_mod_menu_win11 LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+include_directories(include)
+add_executable(rob_run_cheat_mod_menu_win11 src/rob_run_cheat_mod_menu_win11_core.cpp)

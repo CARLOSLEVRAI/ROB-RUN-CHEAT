@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ann87880.github.io/rob-run-cheat-mod-menu-win11/sitemap.xml
